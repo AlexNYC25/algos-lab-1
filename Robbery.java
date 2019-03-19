@@ -13,6 +13,15 @@ public class Robbery {
 		int[] worths
 	) {
 		// fill in here, change the return
+			/*
+				create array to hold location of items
+
+				find the item of biggest worth
+					add that to array
+					find the next biggest worth items
+						check to see if combined value(sizes) are less then 40
+			*/
+
 			return 0;
 	}
 
